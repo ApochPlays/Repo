@@ -87,7 +87,7 @@
     <addon id="repository.Apoch" name="Apoch Sports Repo" version="1.0.0" provider-name="Adam Rollinson">
         <extension point="xbmc.addon.repository" name="Apoch Sports Repo">
             <info compressed="false">https://raw.githubusercontent.com/ApochPlays/Repo/master/addons.xml</info>
-            <datadir zip="true">https://github.com/ApochPlays/Repo/releases/tag/1.0.0</datadir>
+            <datadir zip="true">https://github.com/ApochPlays/Repo/releases/latest</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>Apoch Sport Repo</summary>
